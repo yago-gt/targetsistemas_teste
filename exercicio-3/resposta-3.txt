@@ -1,0 +1,3 @@
+Menor valor: 373.7838
+Maior valor: 48924.2448
+Número de dias no mês com valor superior à média: 10
